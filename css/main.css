@@ -31,13 +31,15 @@ a {
 }
 
 .main-nav {
-    margin-top: 90px;
+    margin-top: 150px;
 }
 #main-logo {
     display: inline-block;
 }
 
-h1,
+h1 {
+    font-size: 30px;
+}
 h2,
 h3,
 h4,
